@@ -1,0 +1,2 @@
+# Progreesive-Ratio-Analysis-
+Progressive ratio (PR) studies involve a schedule of drug reinforcement delivery that is defined by an increasing response requirement for reinforcer delivery over successive sessions. These kind of studies are often used in pharmacology or behavioral science fields in order to asses drug potency or possible addiction and the subsequent behavior involved. This code specifically analyzes behavioral microstructures such as the post-reinforcement pauses and ratio-based response rates during a PR study. 
